@@ -1,2 +1,5 @@
-# bank_churn_ml
-Analisando e prevendo o churn de clientes do banco
+# BANK CHURN - MACHINE LEARNING
+
+## Can find out who will leave the bank?
+
+A few days ago I start to learn machine learning, then I decided do a project to test my abilitys 
